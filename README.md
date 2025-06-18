@@ -1,5 +1,5 @@
 # Tardigrade
-A Fully Fledged Dama Manipulation Program with a built-in Scripting Language.
+A Fully Fledged Data Manipulation Program with a built-in Scripting Language.
 
 In the left console, you will be able to script in Glowscript, the native scripting language for Tardigrade. The Syntax goes like "Function Args", where Function is the function, and args are the arguments. You will be able to use the following functions:
 
