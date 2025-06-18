@@ -2,7 +2,7 @@
 A Fully Fledged Data Manipulation Program with a built-in Scripting Language written entirely in Python.
 
 # Notice
-The only thing shown in the main branch is the python file. In order to get the latest executable, look in the releases.
+In order to get the latest executable, look in the releases.
 
 # Features
 - A fully custom syntax
@@ -11,11 +11,7 @@ The only thing shown in the main branch is the python file. In order to get the 
 - A tkinter program for running the code
 
 # Required Dependencies
-- Tkinter (Built-into python)
-- Pandas
-- Pyperclip
-- Pathlib
-- Scipy
+- None! (Executable out now!)
 
 # Docs
 
