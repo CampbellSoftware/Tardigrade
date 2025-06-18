@@ -1,6 +1,9 @@
 # Tardigrade
 A Fully Fledged Data Manipulation Program with a built-in Scripting Language written entirely in Python.
 
+# Notice
+The files shown in the main are the earliest version. In order to get the latest, look in the releases.
+
 # Features
 - A fully custom syntax
 - No indentation
