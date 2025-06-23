@@ -45,12 +45,16 @@ Goes to a line.
 DIFF, INTER, SYMDIFF, JOIN. All do the respective set function on two sets.
 ## MODULO var a b
 Takes the modulo of a and b, and stores it in var.
+(Not out yet)
 ## SUM/LEN/MEAN list
 Takes the sum/length/mean of a list.
+(Not out yet)
 ## DICT a b
 Makes a dict from two lists a and b
+(Not out yet)
 ## FIND x y
 Finds element y in dict x.
+(Not out yet)
 
 Here is an example you might find helpful:
 "SET x 0
