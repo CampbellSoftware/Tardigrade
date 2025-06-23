@@ -35,6 +35,22 @@ Gets element y in list x.
 Imports a file named file of type type.
 ## INTERP a TYPE x y b;
 Interpolates a function with x values = x and y values = y with type TYPE, sets x to b, and stores the result in a.
+## MAP list FUNC num
+Maps a function FUNC with value num to list list
+## CALL line
+Goes to a line, comes back.
+## GOTO line
+Goes to a line.
+## Set functions
+DIFF, INTER, SYMDIFF, JOIN. All do the respective set function on two sets.
+## MODULO var a b
+Takes the modulo of a and b, and stores it in var.
+## SUM/LEN/MEAN list
+Takes the sum/length/mean of a list.
+## DICT a b
+Makes a dict from two lists a and b
+## FIND x y
+Finds element y in dict x.
 
 Here is an example you might find helpful:
 "SET x 0
